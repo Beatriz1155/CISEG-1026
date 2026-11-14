@@ -5,3 +5,6 @@ No meu local eu alterei este ficheiro
 
 
 Alterei no computador de trabalho fora do meu local
+
+
+Alteração no CentOS CLI
